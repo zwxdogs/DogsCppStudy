@@ -1,0 +1,6 @@
+[
+{
+  "directory": "/home/zwxdogs/Cpp/Project3",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-o", "build/.objs/Project3/linux/x86_64/src/main.c.o", "src/main.c"],
+  "file": "src/main.c"
+}]

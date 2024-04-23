@@ -1,0 +1,15 @@
+[
+    {
+        "directory": "/home/zwxdogs/Cpp/Project4",
+        "arguments": [
+            "/usr/bin/gcc",
+            "-c",
+            "-m64",
+            "-o",
+            "-std=C++2a",
+            "build/.objs/Project4/linux/x86_64/src/main.cpp.o",
+            "src/main.cpp"
+        ],
+        "file": "src/main.cpp"
+    }
+]

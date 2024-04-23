@@ -1,0 +1,17 @@
+[
+    {
+        "directory": "/home/zwxdogs/Cpp/Project1",
+        "arguments": [
+            "/usr/bin/g++",
+            "-c",
+            "-m64",
+            "-g",
+            "-O0",
+            "-std=c++11",
+            "-o",
+            "build/.objs/Project1/linux/x86_64/debug/src/mul.cpp.o",
+            "src/mul.cpp"
+        ],
+        "file": "src/mul.cpp"
+    }
+]

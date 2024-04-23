@@ -1,0 +1,6 @@
+[
+{
+  "directory": "/home/zwxdogs/Cpp/CSAPPStudy/StudyTest_cpp",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-o", "build/.objs/StudyTest_cpp/linux/x86_64/src/main.cpp.o", "src/main.cpp"],
+  "file": "src/main.cpp"
+}]
